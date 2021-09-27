@@ -15,7 +15,7 @@ public class AppTest {
   @Test(description="Check with invalid credentials")
   public void InvalidCredentials() {
 	  App ap=new App();
-	  boolean status=ap.userLogin("userdemo", "password123");
+	  boolean status=ap.userLogin("userdemo", "password");
 	  Assert.assertTrue(status);
   }
 }

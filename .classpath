@@ -35,6 +35,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/Sai Teja/Downloads/jar_files/json-snapshot-0.0.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
